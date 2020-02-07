@@ -1,13 +1,13 @@
-# Programov·nÌ v .NET a C# - Projekty
+# Programov√°n√≠ v .NET a C# - Projekty
 
-#### Projekt 1
+## Projekt 1
 
-**Zad·nÌ:** [project1/projekt1.pdf](project1/projekt1.pdf)
+**Zad√°n√≠:** [project1/projekt1.pdf](project1/projekt1.pdf)
 
-**HodnocenÌ: 15/15**
+**Hodnocen√≠: 15/15**
 
-#### Projekt 2
+## Projekt 2
 
-**Zad·nÌ:** [project2/projekt2.pdf](project2/projekt2.pdf)
+**Zad√°n√≠:** [project2/projekt2.pdf](project2/projekt2.pdf)
 
-**HodnocenÌ: 25/25**
+**Hodnocen√≠: 25/25**

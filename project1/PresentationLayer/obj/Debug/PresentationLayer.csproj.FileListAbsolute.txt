@@ -1,0 +1,18 @@
+E:\IW5\proj1\Projekt 1\PresentationLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\IW5\proj1\Projekt 1\PresentationLayer\bin\Debug\PresentationLayer.exe
+E:\IW5\proj1\Projekt 1\PresentationLayer\bin\Debug\PresentationLayer.pdb
+E:\IW5\proj1\Projekt 1\PresentationLayer\bin\Debug\BusinessLayer.dll
+E:\IW5\proj1\Projekt 1\PresentationLayer\bin\Debug\DataLayer.dll
+E:\IW5\proj1\Projekt 1\PresentationLayer\bin\Debug\BusinessLayer.pdb
+E:\IW5\proj1\Projekt 1\PresentationLayer\bin\Debug\DataLayer.pdb
+E:\IW5\proj1\Projekt 1\PresentationLayer\obj\Debug\PresentationLayer.exe
+E:\IW5\proj1\Projekt 1\PresentationLayer\obj\Debug\PresentationLayer.pdb
+E:\IW5\proj1\Projekt 1 - verze 2\PresentationLayer\obj\Debug\PresentationLayer.exe
+E:\IW5\proj1\Projekt 1 - verze 2\PresentationLayer\obj\Debug\PresentationLayer.pdb
+E:\IW5\proj1\Projekt 1 - verze 2\PresentationLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\IW5\proj1\Projekt 1 - verze 2\PresentationLayer\bin\Debug\PresentationLayer.exe
+E:\IW5\proj1\Projekt 1 - verze 2\PresentationLayer\bin\Debug\PresentationLayer.pdb
+E:\IW5\proj1\Projekt 1 - verze 2\PresentationLayer\bin\Debug\BusinessLayer.dll
+E:\IW5\proj1\Projekt 1 - verze 2\PresentationLayer\bin\Debug\BusinessLayer.pdb
+E:\IW5\proj1\Projekt 1 - verze 2\PresentationLayer\bin\Debug\DataLayer.dll
+E:\IW5\proj1\Projekt 1 - verze 2\PresentationLayer\bin\Debug\DataLayer.pdb

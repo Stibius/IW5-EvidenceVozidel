@@ -1,0 +1,35 @@
+E:\IW5\proj1\Projekt 1\BusinessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\IW5\proj1\Projekt 1\BusinessLayer\bin\Debug\BusinessLayer.dll
+E:\IW5\proj1\Projekt 1\BusinessLayer\bin\Debug\BusinessLayer.pdb
+E:\IW5\proj1\Projekt 1\BusinessLayer\bin\Debug\DataLayer.dll
+E:\IW5\proj1\Projekt 1\BusinessLayer\bin\Debug\DataLayer.pdb
+E:\IW5\proj1\Projekt 1\BusinessLayer\obj\Debug\BusinessLayer.dll
+E:\IW5\proj1\Projekt 1\BusinessLayer\obj\Debug\BusinessLayer.pdb
+E:\IW5\proj1\Projekt 1 - verze 2\BusinessLayer\bin\Debug\BusinessLayer.dll
+E:\IW5\proj1\Projekt 1 - verze 2\BusinessLayer\bin\Debug\BusinessLayer.pdb
+E:\IW5\proj1\Projekt 1 - verze 2\BusinessLayer\bin\Debug\DataLayer.dll
+E:\IW5\proj1\Projekt 1 - verze 2\BusinessLayer\bin\Debug\DataLayer.pdb
+E:\IW5\proj1\Projekt 1 - verze 2\BusinessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\IW5\proj1\Projekt 1 - verze 2\BusinessLayer\obj\Debug\BusinessLayer.dll
+E:\IW5\proj1\Projekt 1 - verze 2\BusinessLayer\obj\Debug\BusinessLayer.pdb
+E:\IW5\projekty\Projekt 1.2\BusinessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\IW5\projekty\Projekt 1.2\BusinessLayer\obj\Debug\BusinessLayer.dll
+E:\IW5\projekty\Projekt 1.2\BusinessLayer\bin\Debug\BusinessLayer.dll
+E:\IW5\projekty\Projekt 1.2\BusinessLayer\bin\Debug\BusinessLayer.pdb
+E:\IW5\projekty\Projekt 1.2\BusinessLayer\bin\Debug\DataLayer.dll
+E:\IW5\projekty\Projekt 1.2\BusinessLayer\bin\Debug\DataLayer.pdb
+E:\IW5\projekty\Projekt 1.2\BusinessLayer\obj\Debug\BusinessLayer.pdb
+E:\IW5\projekty\projekt 1.5\BusinessLayer\bin\Debug\BusinessLayer.dll
+E:\IW5\projekty\projekt 1.5\BusinessLayer\bin\Debug\BusinessLayer.pdb
+E:\IW5\projekty\projekt 1.5\BusinessLayer\bin\Debug\DataLayer.dll
+E:\IW5\projekty\projekt 1.5\BusinessLayer\bin\Debug\DataLayer.pdb
+E:\IW5\projekty\projekt 1.5\BusinessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\IW5\projekty\projekt 1.5\BusinessLayer\obj\Debug\BusinessLayer.dll
+E:\IW5\projekty\projekt 1.5\BusinessLayer\obj\Debug\BusinessLayer.pdb
+E:\IW5\projekty\projekt 2\BusinessLayer\bin\Debug\BusinessLayer.dll
+E:\IW5\projekty\projekt 2\BusinessLayer\bin\Debug\BusinessLayer.pdb
+E:\IW5\projekty\projekt 2\BusinessLayer\bin\Debug\DataLayer.dll
+E:\IW5\projekty\projekt 2\BusinessLayer\bin\Debug\DataLayer.pdb
+E:\IW5\projekty\projekt 2\BusinessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\IW5\projekty\projekt 2\BusinessLayer\obj\Debug\BusinessLayer.dll
+E:\IW5\projekty\projekt 2\BusinessLayer\obj\Debug\BusinessLayer.pdb

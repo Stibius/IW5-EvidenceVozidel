@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VehicleCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <vehicleList>
+    <Vehicle xsi:type="Car">
+      <Type>1</Type>
+      <Depreciation>0.25</Depreciation>
+      <Date>2009-03-31T00:00:00</Date>
+      <OriginalValue>100000</OriginalValue>
+      <Brand>Skoda</Brand>
+      <SeatsNumber>5</SeatsNumber>
+      <Usage>300</Usage>
+    </Vehicle>
+  </vehicleList>
+  <scrapList>
+    <Vehicle xsi:type="Ship">
+      <Type>4</Type>
+      <Depreciation>0.15</Depreciation>
+      <Date>1950-01-01T00:00:00</Date>
+      <OriginalValue>1000000</OriginalValue>
+      <Brand>Superlod</Brand>
+      <SeatsNumber>30</SeatsNumber>
+      <Usage>20</Usage>
+    </Vehicle>
+  </scrapList>
+</VehicleCollection>

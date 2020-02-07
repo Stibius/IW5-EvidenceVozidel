@@ -1,0 +1,10 @@
+E:\IW5\proj1\Projekt 1\DataLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\IW5\proj1\Projekt 1\DataLayer\bin\Debug\DataLayer.dll
+E:\IW5\proj1\Projekt 1\DataLayer\bin\Debug\DataLayer.pdb
+E:\IW5\proj1\Projekt 1\DataLayer\obj\Debug\DataLayer.dll
+E:\IW5\proj1\Projekt 1\DataLayer\obj\Debug\DataLayer.pdb
+E:\IW5\proj1\Projekt 1 - verze 2\DataLayer\bin\Debug\DataLayer.dll
+E:\IW5\proj1\Projekt 1 - verze 2\DataLayer\bin\Debug\DataLayer.pdb
+E:\IW5\proj1\Projekt 1 - verze 2\DataLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\IW5\proj1\Projekt 1 - verze 2\DataLayer\obj\Debug\DataLayer.dll
+E:\IW5\proj1\Projekt 1 - verze 2\DataLayer\obj\Debug\DataLayer.pdb

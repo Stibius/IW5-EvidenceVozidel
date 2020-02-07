@@ -1,0 +1,39 @@
+E:\IW5\projekty\WindowsFormsApplication1\PresentationLayer\bin\Debug\PresentationLayer.exe
+E:\IW5\projekty\WindowsFormsApplication1\PresentationLayer\bin\Debug\PresentationLayer.pdb
+E:\IW5\projekty\WindowsFormsApplication1\PresentationLayer\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\IW5\projekty\WindowsFormsApplication1\PresentationLayer\obj\x86\Debug\PresentationLayer.Form1.resources
+E:\IW5\projekty\WindowsFormsApplication1\PresentationLayer\obj\x86\Debug\PresentationLayer.Properties.Resources.resources
+E:\IW5\projekty\WindowsFormsApplication1\PresentationLayer\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\IW5\projekty\WindowsFormsApplication1\PresentationLayer\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\IW5\projekty\WindowsFormsApplication1\PresentationLayer\obj\x86\Debug\PresentationLayer.exe
+E:\IW5\projekty\WindowsFormsApplication1\PresentationLayer\obj\x86\Debug\PresentationLayer.pdb
+E:\IW5\projekty\projekt 1.5\PresentationLayer\obj\x86\Debug\PresentationLayer.exe
+E:\IW5\projekty\projekt 1.5\PresentationLayer\obj\x86\Debug\PresentationLayer.pdb
+E:\IW5\projekty\projekt 1.5\PresentationLayer\bin\Debug\PresentationLayer.exe
+E:\IW5\projekty\projekt 1.5\PresentationLayer\bin\Debug\PresentationLayer.pdb
+E:\IW5\projekty\projekt 1.5\PresentationLayer\bin\Debug\BusinessLayer.dll
+E:\IW5\projekty\projekt 1.5\PresentationLayer\bin\Debug\DataLayer.dll
+E:\IW5\projekty\projekt 1.5\PresentationLayer\bin\Debug\BusinessLayer.pdb
+E:\IW5\projekty\projekt 1.5\PresentationLayer\bin\Debug\DataLayer.pdb
+E:\IW5\projekty\projekt 1.5\PresentationLayer\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\IW5\projekty\projekt 1.5\PresentationLayer\obj\x86\Debug\PresentationLayer.SaveForm.resources
+E:\IW5\projekty\projekt 1.5\PresentationLayer\obj\x86\Debug\PresentationLayer.Properties.Resources.resources
+E:\IW5\projekty\projekt 1.5\PresentationLayer\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\IW5\projekty\projekt 1.5\PresentationLayer\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\IW5\projekty\projekt 1.5\PresentationLayer\obj\x86\Debug\PresentationLayer.MainForm.resources
+E:\IW5\projekty\projekt 2\PresentationLayer\obj\x86\Debug\PresentationLayer.exe
+E:\IW5\projekty\projekt 2\PresentationLayer\obj\x86\Debug\PresentationLayer.pdb
+E:\IW5\projekty\projekt 2\PresentationLayer\bin\Debug\PresentationLayer.exe
+E:\IW5\projekty\projekt 2\PresentationLayer\bin\Debug\PresentationLayer.pdb
+E:\IW5\projekty\projekt 2\PresentationLayer\bin\Debug\BusinessLayer.dll
+E:\IW5\projekty\projekt 2\PresentationLayer\bin\Debug\DataLayer.dll
+E:\IW5\projekty\projekt 2\PresentationLayer\bin\Debug\BusinessLayer.pdb
+E:\IW5\projekty\projekt 2\PresentationLayer\bin\Debug\DataLayer.pdb
+E:\IW5\projekty\projekt 2\PresentationLayer\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\IW5\projekty\projekt 2\PresentationLayer\obj\x86\Debug\PresentationLayer.MainForm.resources
+E:\IW5\projekty\projekt 2\PresentationLayer\obj\x86\Debug\PresentationLayer.Properties.Resources.resources
+E:\IW5\projekty\projekt 2\PresentationLayer\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\IW5\projekty\projekt 2\PresentationLayer\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\IW5\projekty\projekt 2\PresentationLayer\obj\x86\Debug\PresentationLayer.InsertForm.resources
+E:\IW5\projekty\xvybir05\PresentationLayer\obj\x86\Debug\PresentationLayer.exe
+E:\IW5\projekty\xvybir05\PresentationLayer\obj\x86\Debug\PresentationLayer.pdb
